@@ -80,5 +80,5 @@ Example accounts:
 
 ## Author
 Ammar Abadou  
-Computer Engineering Student  
+Computer Science Student  
 
